@@ -1,0 +1,4 @@
+# Dumb public log
+
+Initial dumb line.
+
